@@ -2,4 +2,4 @@ print("Hello World")
 print("Hello World")
 
 
-print("global-2)
+print("global-2")
